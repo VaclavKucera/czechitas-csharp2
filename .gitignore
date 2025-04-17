@@ -23,3 +23,4 @@ HelloWorld/obj/HelloWorld.csproj.nuget.g.targets
 HelloWorld/obj/project.assets.json
 HelloWorld/obj/project.nuget.cache
 .vscode/settings.json
+HelloWorld/obj/Debug/net8.0/HelloWorld.sourcelink.json
